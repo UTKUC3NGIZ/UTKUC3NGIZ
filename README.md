@@ -1,5 +1,13 @@
-<h1 align="center">Merhaba Ben Utku</h1>
-<h3 align="center">Front end alanında kendimi geliştiriyor, düzgün ve temiz kod yazmaya dikkat ediyorum. Çalışacağım yere bir şeyler katmak ve bir şeyler öğrenmek için elimden geleni yaparım. Teorik ve pratik olarak kendimi geliştirmek için çeşitli projeler yapıp, dokümantasyonlar ve makaleler okuyorum. Araştırmayı ve öğrenmeyi seviyorum. Öğrendiklerimi çevremle paylaşmayı ve yardımcı olmayı isterim. Çocukluğumdan beri bilgisayar ve internetle uğraştığım için yaptığım çalışmalardan zevk alıyorum. Bu yüzden çalışırken zamanın farkında olmuyor ve en iyisini yapmaya çalışıyorum.</h3>
+<h1 align="center">Hi there, I'm Utku Cengiz 👋</h1>
+
+<h3 align="center">Front-End Developer | React | Next.js | CSS</h3>
+
+---
+
+I'm a passionate front-end developer dedicated to continuous improvement and writing clean, efficient code. My goal is to contribute valuable skills to my workplace and to learn as much as I can. I engage in various projects and read documentation and articles to develop both theoretical and practical knowledge. I love to research and learn, and I enjoy sharing what I learn with those around me.
+
+Since my childhood, I have been fascinated by computers and the internet, which makes my work enjoyable. As a result, I often lose track of time while striving to deliver the best results.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
