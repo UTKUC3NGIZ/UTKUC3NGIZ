@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Utku Cengiz 👋</h1>
 
-<h3 align="center">Front-End Developer | React | Next.js | CSS</h3>
+<h3 align="center">Front-End Developer | React | Next.js | Tailwind</h3>
 
 ---
 
